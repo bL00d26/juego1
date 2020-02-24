@@ -1,2 +1,2 @@
-# juego1
+# juego 1
 Juego 1 en flutter web, falta pasarlo por electron
