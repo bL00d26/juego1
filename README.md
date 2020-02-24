@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # juego
 
 A new Flutter project.
@@ -17,5 +18,8 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 =======
 # juego1
+=======
+# juego 1
+>>>>>>> 8f596c64d2622637c1b8d8e242b69d56c2d431a9
 Juego 1 en flutter web, falta pasarlo por electron
 >>>>>>> origin/master
